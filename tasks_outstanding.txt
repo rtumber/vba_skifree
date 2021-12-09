@@ -1,0 +1,18 @@
+'record progress on scoreboard
+'style scoreboard and piste
+'add github asset download and associated handling
+'add and randomise dynamic assets
+'make space and add starting assets
+'remove axes
+'add game types with scoring, timing etc
+'add skier +ve height interactions
+'slow jump height progression
+'speed descent
+'add mogul jump interaction
+
+
+'resolve 1004 error on chart plot
+'add numberpad support
+'add mouse handling
+'add stump transform interaction
+'add evergreen fire
