@@ -16,3 +16,6 @@
 'add mouse handling
 'add stump transform interaction
 'add evergreen fire
+'add ribbon button
+'add restart/pause handling
+'consider scoring rank system linked to github
