@@ -8,7 +8,8 @@
 'add skier +ve height interactions
 'slow jump height progression
 'speed descent
-'add mogul jump interaction
+'add mogul jump interactio
+'precalculate to reduce operations
 
 
 'resolve 1004 error on chart plot
@@ -18,4 +19,4 @@
 'add evergreen fire
 'add ribbon button
 'add restart/pause handling
-'consider scoring rank system linked to github
+'consider scoring rank system linked to github ~ could be open to abuse
