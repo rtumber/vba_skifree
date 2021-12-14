@@ -7,7 +7,7 @@
 'add game types with scoring, timing etc
 'add skier +ve height interactions
 'precalculate to reduce operations
-
+'jump interactions on static shifts
 
 'resolve intermittent 1004 error on chart plot
 'add numberpad support
