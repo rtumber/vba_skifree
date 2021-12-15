@@ -5,9 +5,9 @@
 'make space and add starting assets
 'remove axes
 'add game types with scoring, timing etc
-'add skier +ve height interactions
 'precalculate to reduce operations
 'jump interactions on static shifts
+'smooth jump profile, less parabolic
 
 'resolve intermittent 1004 error on chart plot
 'add numberpad support
