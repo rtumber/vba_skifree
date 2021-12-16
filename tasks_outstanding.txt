@@ -7,6 +7,9 @@
 'precalculate to reduce operations
 'jump interactions on static shifts
 'smooth jump profile, less parabolic
+'thin obs to better reflect original
+'adjust airborne interaction limits
+'examine obs_shift wrt velocity - relating to 1004 below
 
 'resolve intermittent 1004 error on chart plot
 'add numberpad support
