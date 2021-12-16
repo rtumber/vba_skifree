@@ -1,4 +1,3 @@
-'record progress on scoreboard
 'style scoreboard and piste
 'add github asset download and associated handling
 'add and randomise dynamic assets
