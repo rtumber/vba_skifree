@@ -9,7 +9,6 @@
 'smooth jump profile, less parabolic
 'adjust airborne interaction limits
 
-'resolve intermittent 1004 error on chart plot
 'add numberpad support
 'add mouse handling
 'add stump transform interaction
