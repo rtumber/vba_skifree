@@ -1,8 +1,8 @@
 'style scoreboard and piste - terminal
 'add github asset download and associated handling
 'add and randomise dynamic assets
-  - novice, snowboard, dog, ending/failsafe
-  - asset import, dimensions, spawn arrays/, movement progress track, interaction with static assets, skier interaction
+  - novice/, snowboard, dog, ending(failsafe)
+  - asset import/, dimensions/, spawn arrays/, movement progress track, interaction with static assets, skier interaction
 'make space and add starting assets
 'remove axes
 'add game types with scoring, timing etc
