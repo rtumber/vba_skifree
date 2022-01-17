@@ -1,20 +1,21 @@
 'style scoreboard and piste - terminal
 'add github asset download and associated handling
 'add and randomise dynamic assets
-  - novice/, snowboard (check asset interaction boundaries and f seq., adj z_ind), dog, ending(failsafe)
+  - novice/, snowboard/, dog - static shift/interactions, ending(failsafe)
   - asset import/, dimensions/, spawn arrays/, movement progress track, interaction with static assets, skier interaction
+'adjust asset recycler - prevent asset overlap
+'investigate speed drop
 'make space and add starting assets
 'remove axes
 'add game types with scoring, timing etc
 'precalculate to reduce operations
 'smooth jump profile, less parabolic
-'adjust airborne interaction limits
+'check airborne interaction limits
 
 'add numberpad support
 'add mouse handling
 'add stump transform interaction
 'add evergreen fire
+'add dog mousejump interaction
 'add ribbon button
 'add restart/pause handling
-'consider scoring rank system linked to github ~ could be open to abuse
-now
