@@ -1,7 +1,7 @@
-'style scoreboard and piste - terminal
+'style scoreboard and piste - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default. add old windows 3.1 style window exterior.
 'add github asset download and associated handling
 'add ending(failsafe)
-  - asset import, dimensions, movement progress track, skier interaction, control override
+  - add skier caught when on ground sequence, control override via gameover flag
 'adjust asset recycler - prevent asset overlap
 'investigate speed drop
 'make space and add starting assets
