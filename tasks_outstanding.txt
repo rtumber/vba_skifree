@@ -1,16 +1,18 @@
 'style scoreboard and piste - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default. add old windows 3.1 style window exterior.
 'add github asset download and associated handling
-'add ending(failsafe)
-  - add skier caught when on ground sequence, control override via gameover flag
-'adjust asset recycler - prevent asset overlap
+'adjust asset recycler - prevent asset overlap (may not be a problem - check asset proximity on load)
+
+'remove failsafe test limiter
+
 'investigate speed drop
 'make space and add starting assets
 'remove axes
 'add game types with scoring, timing etc
-'precalculate to reduce operations
+'check precalculations to reduce operations
 'smooth jump profile, less parabolic
 'check airborne interaction limits
 
+'restart key & process, include gameover reset
 'add numberpad support
 'add mouse handling
 'add stump transform interaction
