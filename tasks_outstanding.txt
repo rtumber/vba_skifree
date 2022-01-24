@@ -12,11 +12,10 @@
 'smooth jump profile, less parabolic
 'check airborne interaction limits
 
-'restart key & process, include gameover reset
 'add numberpad support
 'add mouse handling
 'add stump transform interaction
 'add evergreen fire
 'add dog mousejump interaction
 'add ribbon button
-'add restart/pause handling
+'tidy no longer required test code and variables
