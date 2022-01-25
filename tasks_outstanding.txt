@@ -1,9 +1,11 @@
-'style scoreboard and piste - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default. add old windows 3.1 style window exterior.
+'style scoreboard and piste - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default.
 'add github asset download and associated handling
 'adjust asset recycler - prevent asset overlap (may not be a problem - check asset proximity on load)
+'zoom at 86%
 
 'remove failsafe test limiter
 
+'adjust snowboard no plot boundary to account for downward movement
 'investigate speed drop
 'make space and add starting assets
 'remove axes
