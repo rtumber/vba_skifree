@@ -1,11 +1,10 @@
 'style scoreboard and piste - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default.
 'add github asset download and associated handling
 'adjust asset recycler - prevent asset overlap (may not be a problem - check asset proximity on load)
-'zoom at 86%
 
+'jump malfunction on restart? - check
 'remove failsafe test limiter
 
-'adjust snowboard no plot boundary to account for downward movement
 'investigate speed drop
 'make space and add starting assets
 'remove axes
@@ -13,6 +12,7 @@
 'check precalculations to reduce operations
 'smooth jump profile, less parabolic
 'check airborne interaction limits
+'add jump events
 
 'add numberpad support
 'add mouse handling
