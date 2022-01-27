@@ -1,8 +1,7 @@
-'style scoreboard and piste - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default.
+'style scoreboard - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default.
 'add github asset download and associated handling
 'adjust asset recycler - prevent asset overlap (may not be a problem - check asset proximity on load)
 
-'jump malfunction on restart? - check
 'remove failsafe test limiter
 
 'investigate speed drop
@@ -10,9 +9,10 @@
 'remove axes
 'add game types with scoring, timing etc
 'check precalculations to reduce operations
+
 'smooth jump profile, less parabolic
+'jump malfunction on restart? - check
 'check airborne interaction limits
-'add jump events
 
 'add numberpad support
 'add mouse handling
