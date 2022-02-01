@@ -1,9 +1,8 @@
 'style scoreboard - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default.
-'add github asset download and associated handling
-'adjust asset recycler - prevent asset overlap (may not be a problem - check asset proximity on load)
+'add github asset download and associated handling - check security implications and link stability
 
 'investigate speed drop - look at optional speed modifier and examine doevents calls
-'make space (- currently reinstates some cleared assets on first downward movement) and add starting assets
+'add starting assets
 'remove axes
 'add game types with scoring, timing etc
 'check precalculations to reduce operations
