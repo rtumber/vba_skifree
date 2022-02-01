@@ -2,10 +2,8 @@
 'add github asset download and associated handling
 'adjust asset recycler - prevent asset overlap (may not be a problem - check asset proximity on load)
 
-'remove failsafe test limiter
-
 'investigate speed drop - look at optional speed modifier and examine doevents calls
-'make space and add starting assets
+'make space (- currently reinstates some cleared assets on first downward movement) and add starting assets
 'remove axes
 'add game types with scoring, timing etc
 'check precalculations to reduce operations
