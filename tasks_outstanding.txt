@@ -2,7 +2,7 @@
 'add github asset download and associated handling - check security implications and link stability
 
 'investigate speed drop - look at optional speed modifier and examine doevents calls
-'add starting assets
+
 'remove axes
 'add game types with scoring, timing etc
 'check precalculations to reduce operations
