@@ -4,7 +4,8 @@
 'investigate speed drop - look at optional speed modifier and examine doevents calls
 
 'remove axes
-'add game types with scoring, timing etc
+'add game types with scoring, timing etc - adjust gate distribution
+
 'check precalculations to reduce operations
 
 'check airborne interaction limits
