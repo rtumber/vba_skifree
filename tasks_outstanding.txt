@@ -4,8 +4,10 @@
 'investigate speed drop - look at optional speed modifier and examine doevents calls
 
 'remove axes
-'add game types with scoring, timing etc - adjust gate distribution
+'add game types with timing etc
 
+
+'jump interaction and scoring may be off, slow progress to ease investigation
 'check precalculations to reduce operations
 
 'check airborne interaction limits
