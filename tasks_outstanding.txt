@@ -5,7 +5,7 @@
 
 'remove axes
 'add game types with timing etc
-
+'redefine time variables(?)
 
 'jump interaction and scoring may be off, slow progress to ease investigation
 'check precalculations to reduce operations
