@@ -1,11 +1,6 @@
-'style scoreboard - old font fixedsys no longer loaded as default, shift to 'courier new' loaded as default.
 'add github asset download and associated handling - check security implications and link stability
 
 'investigate speed drop - look at optional speed modifier and examine doevents calls
-
-'remove axes
-'add game types with timing etc
-'redefine time variables(?)
 
 'jump interaction and scoring may be off, slow progress to ease investigation
 'check precalculations to reduce operations
