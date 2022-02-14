@@ -1,14 +1,10 @@
 'add github asset download and associated handling - check security implications and link stability
 
 'investigate speed drop - look at optional speed modifier and examine doevents calls
-
-'jump interaction and scoring may be off, slow progress to ease investigation
-'check precalculations to reduce operations
-
-'check airborne interaction limits
+'revisit lateral movement speed drop 
 
 'add mouse handling
-'add stump transform interaction
+'add stump transform interaction - use keystroke to generate interaction check?
 'add evergreen fire
 'add dog mousejump interaction
 'tidy no longer required test code and variables
