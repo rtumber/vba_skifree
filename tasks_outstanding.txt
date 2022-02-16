@@ -2,7 +2,6 @@
 
 'investigate speed drop - look at optional speed modifier and examine doevents calls
 
-'add stump transform interaction -set flag on keystroke, pass to interaction module. fallen novice same principle
 'add mouse handling
 'add evergreen fire
 'add dog mousejump interaction
