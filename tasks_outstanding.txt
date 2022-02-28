@@ -8,7 +8,6 @@
 
 'add evergreen fire
 'add dog mousejump interaction
-'add mushroom and rock jump interaction 
 
 
 'tidy no longer required test code and variables
