@@ -4,10 +4,9 @@
 
 'add mouse handling - mouse positioning - all methods tested so far have shown significant detrimental impact on macro performance to the extent where at this time this functionality has been stopped to perhaps look at again down the line. 
 
-'Add static click handling
-
-'add evergreen fire
+'add evergreen fire - added, check case progression on chart update.
 'add dog mousejump interaction
+'investigate novice clipping
 
 
 'tidy no longer required test code and variables
