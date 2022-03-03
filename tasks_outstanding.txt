@@ -4,7 +4,6 @@
 
 'add mouse handling - mouse positioning - all methods tested so far have shown significant detrimental impact on macro performance to the extent where at this time this functionality has been stopped to perhaps look at again down the line. 
 
-'check dog mousejump end position
 'disable typing and shape tooltip
 
 'tidy no longer required test code and variables
